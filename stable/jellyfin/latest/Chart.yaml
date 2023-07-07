@@ -6,7 +6,7 @@ dependencies:
   version: 2207.0.0
 description: Jellyfin Server
 home: https://jellyfin.org/
-icon: https://gitee.com/hbtxzl130/truenas-app/raw/master/icons/jellyfin.png
+icon: https://github.com/txzl130/truenas-app/blob/main/icons/jellyfin.png?raw=true
 keywords:
 - jellyfin
 - media
